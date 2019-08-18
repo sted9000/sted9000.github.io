@@ -13,7 +13,7 @@ permalink: /daily
   </p>
 
   <ul class="recent-posts">
-    {% for post in site.categories.mendokusai offset: 0 limit: 10 %}
+    {% for post in site.categories.daily offset: 0 limit: 10 %}
       <li>
         <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
         <span>{{ post.date | date_to_string }} | {{ post.tags | sort | join: ", " }}</span>
