@@ -1,5 +1,5 @@
 ---
-layout: Daily
+layout: daily
 author: Ted Slocum
 title: Calling Bull-Shit
 tags: [ BS, Compassion, Mindfulness ]
