@@ -7,7 +7,7 @@ permalink: /daily/archives
   <h1>{{ page.title }}</h1>
 
   <ul class="archive-list">
-    {% for post in site.categories.mendokusai %}
+    {% for post in site.categories.daily %}
       {% assign currentdate = post.date | date: "%B %Y" %}
       {% if currentdate != date %}
         {% unless forloop.first %}</ul>{% endunless %}
