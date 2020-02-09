@@ -42,7 +42,7 @@ print("Waiting for Github Pages to build...")
 time.sleep(30)
 
 def LastPostDate():
-    frontpage = urlopen('https://jonnyspicer.com').read()
+    frontpage = urlopen('https://sted9000.github.io').read()
     parsed_frontpage = BeautifulSoup(frontpage, 'html.parser')
     date_span = parsed_frontpage.body.find(
         'div', class_='recent-posts-mendokusai').find('span').text

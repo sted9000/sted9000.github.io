@@ -44,7 +44,7 @@ if os.path.exists(path):
     f = open(path, 'a')
     f.write('---\n')
     f.write('layout: ' + flavour + '\n')
-    f.write('author: Jonny Spicer\n')
+    f.write('author: Ted Slocum\n')
     f.write('title: ' + name + '\n')
     f.write('tags: [ ' + tags + ' ]\n')
     f.write('---\n')
