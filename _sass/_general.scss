@@ -46,9 +46,9 @@ footer{
 a{
   color: $color_black;
   text-decoration: underline;
-  text-decoration-color: $color_pink;
+  text-decoration-color: $color_dark_green;
   &:hover, &:focus{
-    color: $color_pink;
+    color: $color_dark_green;
   }
 }
 

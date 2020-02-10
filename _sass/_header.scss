@@ -1,5 +1,5 @@
 header{
-  background-color:$color_light_blue;
+  background-color:$color_dark_green;
   .hamburger{
     display: none;
     &:focus{
@@ -50,15 +50,15 @@ header{
       display:none;
       a:first-child{
         div{
-          border-top: solid 1px $color_dark_blue;
+          border-top: solid 1px $color_dark_green;
         }
       }
       div{
         text-align: center;
         border-left: none;
         display: block;
-        border-bottom: solid 1px $color_dark_blue;
-        background-color: $color_light_blue;
+        border-bottom: solid 1px $color_dark_green;
+        background-color: $color_blue;
         width: 100%;
         &:last-child{
           border-right: none;
