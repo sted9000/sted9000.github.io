@@ -35,8 +35,6 @@ collections:
 
 permalink: /:categories/:year/:month/:day/:title
 
-future: true
-
 defaults:
   - scope:
       path: ""
