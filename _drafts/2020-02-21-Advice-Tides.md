@@ -7,4 +7,4 @@ A disturbing phenomenon I have been noticing lately: At times I am open to sugge
 
 While this seems obvious and sane, my discernment seems arbitrary and way off.
 
-Openness to input should be based on some objective measure, not solely the tides of my mind.  
+Openness to input should be based on some objective measure, not solely the tides of mind.  
