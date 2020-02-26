@@ -12,5 +12,5 @@ Ideas:
 - Always keep in mind (or at least in your pocket) the beautiful reason you are moving.
 - Decide what is important during this process. Let the rest fall where it may.
 - Good upfront communication and knowing what is important to your partner.
-- This is a new chance to decide again what stuff really matters and what stuff to allow I to our lives. Be grateful.
+- This is a new chance to decide again what stuff really matters and what stuff to allow into our lives. Be grateful.
 - Not every decision is best made together. Delegate where appropriate. 
