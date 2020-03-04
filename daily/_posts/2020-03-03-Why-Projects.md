@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Why am I doing xyz?"
+date: 2020-03-03
+---
+
 Why am I doing x, y, or z?
 
 Often I worry that the answer is, _so I can say that I am_.
