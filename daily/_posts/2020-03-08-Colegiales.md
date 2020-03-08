@@ -1,3 +1,9 @@
+---
+layout: post
+date: 2020-03-08
+title: "Colegiales"
+---
+
 Just as I am falling in love with my neighborhood here in Buenos Aires, we are moving. While it was not love at first sight - it has taken my a full year and a half to fall in love - I would proudly defend Colegiales as **the best neighborhood** vs any and all willing challengers.
 
 Just to name a few things it has going for it:
