@@ -1,7 +1,0 @@
----
-layout: post
-date: 2020-03-12
-title: "Exciting Scale"
----
-
-Part of the allure of starting a journey into the world of web is that the scale and reach. Well established is the idea that the untrained human mind is poor at comprehending things that are very large. Each time I see thousands of people online playing a game together, the 1B download number next to instagram in the google play store, or 100's of contributors to a github repository my mind says _wow, I don't think I have any idea, do I_.  
