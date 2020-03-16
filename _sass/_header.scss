@@ -1,16 +1,86 @@
 header{
   background-color:$color_dark_green;
-  .hamburger{
+  .mobile-header{
     display: none;
-    &:focus{
-      outline: none;
+    height: 52px;
+    padding: 0 20px;
+    flex-direction: column;
+    justify-content: center;
+
+    a {
+      color: $color_white;
+      text-decoration: none;
+      font-size: 24px;
     }
-    @media only screen and (max-width: 540px){
-      display:inline-block;
-      position:absolute;
-      top: 0;
-      right: -3px;
+
+
+    .toggle {
+      display: flex;
+      position: absolute;
+      top: 14px;
+      right: 20px;
+
+      span {
+        width: 30px;
+        height: 25px;
+        background: transparent;
+        border: 0;
+        position: relative;
+        cursor: pointer;
+
+        i {
+          background: $color_white;
+          position: absolute;
+          border-radius: 5px;
+          height: 20%;
+          right: 0;
+          transition: all 0.5s;
+
+          &:nth-child(1) {
+            width: 100%;
+            top: 0;
+          }
+
+          &:nth-child(2) {
+            width: 75%;
+            top: 40%;
+          }
+
+          &:nth-child(3) {
+            width: 50%;
+            top: 80%;
+      }
+        }
+      }
+
+      &.is-active {
+        span i {
+
+
+          &:nth-child(1) {
+            width: 100%;
+            top: 40%;
+            transform: rotate(45deg);
+          }
+
+          &:nth-child(2) {
+            width: 100%;
+            top: 40%;
+            transform: rotate(-45deg);
+          }
+
+          &:nth-child(3) {
+            width: 0%;
+            top: 80%;
+            transition: all 0s;
+          }
+        }
+      }
     }
+
+    @media only screen and (max-width:540px) {
+      display: flex;
+     }
   }
   nav.desktop-nav{
     max-width:1100px;
@@ -45,32 +115,59 @@ header{
       display:none;
     }
   }
-  @media only screen and (max-width: 540px){
-    nav.desktop-nav{
-      display:none;
-      a:first-child{
-        div{
-          border-top: solid 1px $color_dark_green;
+    @media only screen and (max-width: 540px) {
+    nav.desktop-nav {
+       display: block;
+        position: absolute;
+        height: 0;
+        transition: height 0.5s;
+
+        a {
+          div {
+            text-align: unset;
+            padding: 0 0 0 20px;
+            border-left: none;
+            display: block;
+            background-color: $color_white;
+            opacity: 0;
+            transition: opacity 0.5s;
+            width: 100%;
+
+            p {
+              color: $color_dark_blue;
+            }
+
+            &:last-child {
+              border-right: none;
+            }
+           }
         }
-      }
-      div{
-        text-align: center;
-        border-left: none;
-        display: block;
-        border-bottom: solid 1px $color_dark_green;
-        background-color: $color_blue;
-        width: 100%;
-        &:last-child{
-          border-right: none;
-        }
+
+          &:last-child {
+          div{
+            padding-bottom: 20px;
+            position: relative;
+
+            &::after {
+              content: '';
+              position: absolute;
+              top: 55px;
+              left: calc(50% - 64px);
+              right: calc(50% - 64px);
+              border: solid 1px lightgrey;
+            }
+          }
       }
       &.expanded{
-        float:none;
-        clear:both;
-        display: block;
+        height: 50px;
         margin: 0 0 -20px;
         z-index: 100;
         width: 100%;
+        width: calc(100% - 20px);
+
+        div {
+            opacity: 1;
+        }
       }
     }
   }

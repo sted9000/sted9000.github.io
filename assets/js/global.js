@@ -1,10 +1,11 @@
 document.addEventListener("DOMContentLoaded", function(event) {
 
-  // Mobile hamburger menu
-  document.querySelector('.hamburger').addEventListener('click', function(event){
-    document.querySelector('.hamburger').classList.toggle('is-active');
+
+// Mobile hamburger menu
+document.querySelector('.toggle').addEventListener('click', function(event){
+    document.querySelector('.toggle').classList.toggle('is-active');
     document.querySelector('.desktop-nav').classList.toggle('expanded');
-  });
+});
 
   // Archive accordions
   var leaves = document.querySelectorAll('.accordion-title');
