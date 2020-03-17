@@ -1,28 +1,38 @@
 from pathlib import Path
 import datetime
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+import time
+import subprocess
+PIPE = subprocess.PIPE
+
 
 Path = Path('.')
+author = 'Ted Slocum'
 tags = ['Health', 'Mindfulness', 'Beauty', 'Freeroll']
 
 ### list drafts
 drafts = [x for x in (Path / '_drafts').iterdir()]
+print('Drafts: ')
 for i, x in enumerate(drafts):
-    print(str(i), x.parts[1])
+    print(str(i), ' - ', x.parts[1])
 
 ### select draft
-user_draft = input('What draft do you want to publish today? ')
+user_draft = input('Enter Draft #: ')
 draft_to_publish = drafts[int(user_draft)].parts[1]
+print()
 print(draft_to_publish)
 
 ### header data
-user_use_tags = input('Do you want to add tags to this post(y for yes, enter for no)? ')
+user_use_tags = input('Do you want to add tags(y)? ')
 # tags
-if len(user_use_tags) > 0:
+if user_use_tags == 'y':
     for i, tag in enumerate(tags):
-        print(str(i), tag)
-    user_tags_string = input('Enter the number of the tag separated by commas: ')
+        print(str(i), ' - ', tag)
+    user_tags_string = input('Enter Tag # (ex: 2,3,4): ')
     user_tags_list = user_tags_string.split(',')
     tags_for_post = [tags[int(x)] for x in user_tags_list]
+
 # date
 date = datetime.date.today().strftime('%Y-%m-%d')
 # layout
@@ -34,16 +44,33 @@ for word in title_list:
     title += word
     title += ' '
 
+print()
+user_title_input = input(f'Correct Title(y): {title}? ')
+if user_title_input == 'y':
+    new_title = title
+else:
+    new_title = input('Please input new title: ')
+
+
 ### write md file
 f = open((Path / 'daily' / '_posts' / draft_to_publish), 'x')
 f.write('---\n')
-f.write('layout: ' + layout + '\n')
-f.write('author: Ted Slocum\n')
-f.write('title: ' + title[:-1] + '\n')
-# f.write('tags: [ ' + tags + ' ]\n')
-# f.write('---\n')
-# format fileName
-# move to daily posts
+f.write(f'layout: {layout}\n')
+f.write(f'author: {author}\n')
+f.write(f'title: {new_title}\n')
+f.write('tags: [')
+for i, tag in enumerate(tags_for_post):
+    if i+1 != len(tags_for_post): f.write(tag + ', ')
+    else: f.write(tag)
+f.write(' ]\n')
+f.write('---\n')
+d = open((Path / '_drafts' / draft_to_publish), 'r')
+for line in d:
+    f.write(line)
+f.close()
+
+
+
 # git add
 # git commit
 # git push
@@ -52,48 +79,42 @@ f.write('title: ' + title[:-1] + '\n')
 
 
 
-# from urllib.request import urlopen
-# from bs4 import BeautifulSoup
-# import time
-# import datetime
-# import subprocess
-# PIPE = subprocess.PIPE
-# now = datetime.datetime.now()
-# commitMessage = 'dp' + now.strftime('%y%m%d')
-#
-# pull = subprocess.Popen(["git", "pull"], stdout=PIPE, stderr=PIPE)
-# stdoutput, stderroutput = pull.communicate()
-#
-# if b'fatal' in stdoutput:
-#     print("Fatal error in pull, aborting script")
-#     sys.exit()
-# else:
-#     print("Pull successful")
-#
-# add = subprocess.Popen(["git", "add", "-A"])
-# stdoutput, stderroutput = add.communicate()
-#
-# commit = subprocess.Popen(["git", "commit", "-m", commitMessage], shell=True, stdout=PIPE, stderr=PIPE)
-# stdoutput, stderroutput = commit.communicate()
-#
-# if b'fatal' in stdoutput:
-#     print("Fatal error in commit, aborting script")
-#     sys.exit()
-# else:
-#     print("Commit successful")
-#
-# push = subprocess.Popen(["git", "push"], stdout=PIPE, stderr=PIPE)
-# stdoutput, stderroutput = push.communicate()
-#
-# if b'fatal' in stdoutput:
-#     print("Fatal error in push, aborting script")
-#     sys.exit()
-# else:
-#     print("Push successful")
-#
-# print("Waiting for Github Pages to build...")
-#
-# time.sleep(30)
+
+
+pull = subprocess.Popen(["git", "pull"], stdout=PIPE, stderr=PIPE)
+stdoutput, stderroutput = pull.communicate()
+
+if b'fatal' in stdoutput:
+    print("Fatal error in pull, aborting script")
+    sys.exit()
+else:
+    print("Pull successful")
+
+add = subprocess.Popen(["git", "add", (Path / 'daily' / '_posts' / draft_to_publish)])
+stdoutput, stderroutput = add.communicate()
+
+commit_message = f'new post {date}'
+commit = subprocess.Popen(["git", "commit", "-m", commit_message], shell=True, stdout=PIPE, stderr=PIPE)
+stdoutput, stderroutput = commit.communicate()
+
+if b'fatal' in stdoutput:
+    print("Fatal error in commit, aborting script")
+    sys.exit()
+else:
+    print("Commit successful")
+
+push = subprocess.Popen(["git", "push"], stdout=PIPE, stderr=PIPE)
+stdoutput, stderroutput = push.communicate()
+
+if b'fatal' in stdoutput:
+    print("Fatal error in push, aborting script")
+    sys.exit()
+else:
+    print("Push successful")
+
+print("Waiting for Github Pages to build...")
+
+time.sleep(30)
 #
 # def LastPostDate():
 #     frontpage = urlopen('https://sted9000.github.io').read()

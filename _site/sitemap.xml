@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/authors/ted</loc>
-<lastmod>2020-03-12T21:54:12-03:00</lastmod>
+<lastmod>2020-03-17T04:07:00-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/daily/2019/01/01/2019-Year-of-Communication</loc>
@@ -307,6 +307,22 @@
 <url>
 <loc>http://localhost:4000/daily/2020/03/12/Exciting-Scale</loc>
 <lastmod>2020-03-12T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/daily/2020/03/13/Food-Life</loc>
+<lastmod>2020-03-13T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/daily/2020/03/14/Take-Advantage</loc>
+<lastmod>2020-03-14T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/daily/2020/03/15/Envy</loc>
+<lastmod>2020-03-15T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/daily/2020/03/16/Special-Categories</loc>
+<lastmod>2020-03-16T00:00:00-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/404</loc>
