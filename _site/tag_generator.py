@@ -11,7 +11,7 @@ Repo: https://github.com/qian256/qian256.github.io/blob/master/tag_generator.py
 import glob
 import os
 
-post_dir = '_posts/'
+post_dir = 'daily/_posts/'
 tag_dir = 'tag/'
 
 filenames = glob.glob(post_dir + '*md')
