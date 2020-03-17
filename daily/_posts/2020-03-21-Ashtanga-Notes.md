@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ted Slocum
-title: Test to push
+title: tests
 ---
 ---
 layout: post
