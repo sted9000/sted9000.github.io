@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ted Slocum
-title: Henh Git commit message
+title: test date checker
 ---
 ---
 layout: post
