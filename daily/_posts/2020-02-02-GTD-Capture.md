@@ -2,7 +2,8 @@
 layout: post
 date: 2020-02-02
 title: "My Personal Management System – Part 3 - Capture"
-
+tags: productivity gtd series
+author: Ted
 ---
 Now we will get into the details...
 

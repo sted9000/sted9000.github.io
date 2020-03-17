@@ -2,6 +2,8 @@
 layout: post
 date: 2020-01-21
 title: "Sacred Productivity"
+tags: productivity
+author: Ted
 ---
 
 A book about personal management and productivity made the claim that a system of the most profane things you can think of - notepads, checklists, folders, weekly reviews - can result in an almost sacred philosophy.

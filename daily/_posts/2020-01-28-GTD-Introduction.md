@@ -2,6 +2,8 @@
 layout: post
 date: 2020-01-28
 title: "My Personal Management System – Introduction"
+tags: productivity gtd series
+author: Ted
 ---
 
 Let’s start with the question “why have a personal management system?” The silly answer is that we all already have one whether we acknowledge it or not. So I guess then the real question is “why have a _structured_ personal management system?”

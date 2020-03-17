@@ -2,6 +2,8 @@
 layout: post
 title:  "Influencers"
 date: 2020-03-04
+tags: language random idea
+author: Ted
 ---
 
 The term _influencer_ always leaves my mouth as a four-letter-word, but I am starting to think that I am wrong in my condemnation. The truth is that I am actively looking for more and better _influencers_ in my life, as I think they are extremely valuable.

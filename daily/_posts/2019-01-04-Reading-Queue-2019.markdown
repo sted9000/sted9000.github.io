@@ -2,7 +2,8 @@
 layout: post
 title: "Reading Queue - 2019"
 date: 2019-01-04
-tags: [learning, reading, media, attention]
+tags: list reading attention
+author: Ted
 ---
 
 I am convinced that following the urge for the latest news, content, and even to some extent ideas is not the best we can do.

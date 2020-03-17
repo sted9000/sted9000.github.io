@@ -2,6 +2,8 @@
 layout: post
 date: 2020-01-20
 title: "Extremes of Life as a Game"
+tags: random
+author: Ted
 ---
 
 

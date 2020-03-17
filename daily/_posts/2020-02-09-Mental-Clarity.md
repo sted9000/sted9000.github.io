@@ -2,6 +2,8 @@
 layout: post
 date: 2020-02-09
 title: "Mental Clarity"
+tags: nntaleb mindfulness courage
+author: Ted
 ---
 
 A favorite aphorism of mine is:

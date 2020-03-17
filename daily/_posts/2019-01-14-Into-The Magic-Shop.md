@@ -2,7 +2,8 @@
 layout: post
 date: 2019-01-14
 title: "Book Notes - Into The Magic Shop"
-tags: [books, meditation, notes]
+tags: book mindfulness
+author: Ted
 ---
 [Into The Magic Shop](https://www.amazon.com/Into-Magic-Shop-Neurosurgeons-Mysteries/dp/0399183647/ref=sr_1_1?ie=UTF8&qid=1547478936&sr=8-1&keywords=into+the+magic+shop+by+james+doty) was a Christmas gift from my aunt and uncle. While most books given and received in my house are never read, I actually started this one<sup>[1](#myfootnote1)</sup> and didn't stop until the back cover.
 

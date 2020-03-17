@@ -2,7 +2,8 @@
 layout: post
 date: 2019-01-06
 title: "List of Trilemmas"
-tags: [trilemma]
+tags: dilemma trilemma
+author: Ted
 ---
 #### You can only have two of the three
 

@@ -2,7 +2,8 @@
 layout: post
 date: 2019-01-05
 title: "Jordan Peterson Teardown"
-tags: [jordan peterson, chris anderson]
+tags: peterson anderson people
+author: Ted
 ---
 
 I love me some Jordan Peterson.

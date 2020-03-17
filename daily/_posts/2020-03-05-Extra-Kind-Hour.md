@@ -2,6 +2,8 @@
 layout: post
 date: 2020-03-05
 title: "Extra Kind Hour"
+tags: relationship idea
+author: Ted
 ---
 Idea: Extra Kind Hour!
 

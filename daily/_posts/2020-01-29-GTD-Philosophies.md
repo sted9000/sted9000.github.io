@@ -2,6 +2,8 @@
 layout: post
 date: 2020-01-29
 title: "My Personal Management System – Part 1 - Philosophies Behind The System"
+tags: productivity gtd series
+author: Ted
 ---
 
 To start, some quotes from the book...

@@ -2,6 +2,8 @@
 layout: post
 title:  "Practical definition of love"
 date: 2020-03-01
+tags: language beauty
+author: Ted
 ---
 
 While defining _love_ seems silly, having a useful definition does not.

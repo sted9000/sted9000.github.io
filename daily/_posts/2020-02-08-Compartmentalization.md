@@ -2,6 +2,8 @@
 layout: post
 date: 2020-02-08
 title: "Integrate vs Compartmentalize"
+tag: idea
+author: Ted
 ---
 
 Both compartmentalization and integration might both be useful philosophies when balanced artfully. However, having had abundant freedom and minimal responsibility over the last 10 years, I embraced integration exclusively.

@@ -2,7 +2,8 @@
 layout: post
 date: 2020-02-17
 title: "Bingeing Podcasts"
-tags: [podcast, rules]
+tags: podcast rules
+author: Ted
 ---
 
 Bingeing podcasts

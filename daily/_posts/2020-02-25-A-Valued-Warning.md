@@ -2,6 +2,8 @@
 layout: post
 title:  "A Valued Warning"
 date: 2020-02-25
+tags: random
+author: Ted
 ---
 
 Again today a pedestrian warned me about the risk of setting a laptop (effectively a large $1000 bill) in front of you while sipping coffee at an outdoor cafe in the city.

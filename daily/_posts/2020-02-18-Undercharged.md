@@ -2,6 +2,8 @@
 title: "Undercharged"
 layout: post
 date: 2020-02-18
+tags: random
+author: Ted
 ---
 
 When undercharged for a purchase (cashier mistake for example), what do you do?

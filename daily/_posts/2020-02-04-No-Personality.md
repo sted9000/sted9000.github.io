@@ -2,6 +2,8 @@
 layout: post
 title: "No-Personality"
 date: 2020-02-04
+tags: book mindfulness idea
+author: Ted
 ---
 
 Two pillars of the project of enlightenment have little push-back: less self referential thinking and more selfless actions. However a third pillar is much more objectionable: a lack of personality.

@@ -2,6 +2,8 @@
 layout: post
 date: 2020-03-16
 title: "Special Categories"
+author: Ted
+tags: psychology beauty
 ---
 
 Never missing a chance to think that I am special, today I thought _I am so lucky to have a lot of people in my life that defy categorization. Neither friend nor family is a sufficient word._

@@ -2,6 +2,8 @@
 title: "Blogging Review - One Month"
 layout: post
 date: 2020-02-23
+tags: blog time-capsule
+author: Ted
 ---
 Have just gently cajoled another friend onto this blogging everyday bet and after having completed a month if blogging myself it seems a good time reflect on its evolving status.
 

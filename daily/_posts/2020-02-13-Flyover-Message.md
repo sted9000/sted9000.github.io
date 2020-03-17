@@ -2,6 +2,8 @@
 layout: post
 date: 2020-02-13
 title: "Flyover Message"
+tags: time-capsule
+author: Ted
 ---
 
 Yesterday, unwillingly engaged in argument with my partner, I was in need of help, cover, air-support, anything to escape the battle with minimal carnage.

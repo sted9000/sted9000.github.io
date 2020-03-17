@@ -2,6 +2,8 @@
 layout: post
 date: 2020-02-12
 title: "Locked Out"
+tags: rules
+author: Ted
 ---
 
 I am tired of the split second of panic and dread when I reach down into my pocket and my keys are not there.

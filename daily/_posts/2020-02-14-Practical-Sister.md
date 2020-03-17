@@ -2,6 +2,8 @@
 layout: post
 date: 2020-02-14
 title: "A Practical Sister"
+tags: people productivity
+author: Ted
 ---
 
 While not learning much of anything mundane or merely practical from my little sister (this is meant to be a veiled compliment), recently I have been writing this blog on the elliptical.

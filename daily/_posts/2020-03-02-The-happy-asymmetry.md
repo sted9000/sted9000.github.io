@@ -2,6 +2,8 @@
 layout: post
 title:  "The lovely asymmetry"
 date: 2020-03-02
+tags: mindfulness beauty reason
+author: Ted
 ---
 
 Concisely, love never requires reasons, anger does.

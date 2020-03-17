@@ -2,7 +2,8 @@
 layout: post
 date: 2019-01-16
 title: "D Brooks - Notes"
-tags: [notes, people]
+tags: brooks people
+author: Ted
 ---
 <h3>David Brooks</h3>
 <h4>The Road to Character</h4>

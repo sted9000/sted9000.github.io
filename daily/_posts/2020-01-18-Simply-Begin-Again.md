@@ -2,6 +2,8 @@
 layout: post
 date: 2020-01-18
 title: "Simply Begin Again"
+tags: mindfulness
+author: Ted
 ---
 
 Sorry to my one and only reader.

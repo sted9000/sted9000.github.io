@@ -2,6 +2,8 @@
 layout: post
 date: 2020-01-22
 title: "Fooling Around"
+tags: emotions
+author: Ted
 ---
 
 Today is a day of much and many emotions.

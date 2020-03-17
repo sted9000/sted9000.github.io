@@ -2,6 +2,8 @@
 layout: post
 title:  "The Simple Problem"
 date: 2020-02-28
+tags: psychology language
+author: Ted
 ---
 
 I like having _simple_ as an objective.

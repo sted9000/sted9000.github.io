@@ -2,6 +2,8 @@
 title: "Complicit"
 layout: post
 date: 2020-02-22
+tags: mindfulness psychology
+author: Ted
 ---
 Objects of discontent pop to my mind. They soon leave, but will be back. This is a large part of my life.
 

@@ -2,7 +2,8 @@
 layout: post
 date: 2019-01-08
 title: "Freeroll - Poker"
-tags: [freeroll, poker, andy]
+tags: freeroll professional
+author: Ted
 ---
 
 I am looking forward to another summer in Vegas.

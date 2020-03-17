@@ -2,6 +2,8 @@
 layout: post
 date: 2020-02-10
 title: "Irons in the fire (revisited)"
+tags: random
+author: Ted
 ---
 
 I suppose some things take priorities over others (obvious upon reflection, not so obvious moment-to-moment).

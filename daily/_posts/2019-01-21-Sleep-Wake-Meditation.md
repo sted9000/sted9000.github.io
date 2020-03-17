@@ -2,6 +2,8 @@
 layout: post
 date: 2019-01-21
 title: "Sleep vs Wake Meditation Analogy"
+tags: mindfulness
+author: Ted
 ---
 I clearly remember on retreat thinking of ways to explain what it was like --
 how is a mindful approach through life different from the normal distracted life.
@@ -28,4 +30,4 @@ Basically the more mindful you are, the more the external world has a chance to 
 
 #### Time Distortion
 
-Shit just slows down when you are meditation and when you are on retreat. 
+Shit just slows down when you are meditation and when you are on retreat.

@@ -2,6 +2,8 @@
 layout: post
 date: 2020-02-01
 title: "My Personal Management System – Part 2 - The System (condensed)"
+tags: productivity gtd series
+author: Ted
 ---
 
 In one longish sentence here it is:

@@ -2,7 +2,8 @@
 layout: post
 date: 2019-01-07
 title: "Freeroll - Meditation Streak"
-tags: [freeroll, meditation, vos, freerollio]
+tags: freeroll mindfulness
+author: Ted
 ---
 
 One resolution this year is to continue to explore meditation.

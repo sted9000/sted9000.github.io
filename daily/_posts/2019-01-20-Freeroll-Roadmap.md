@@ -2,6 +2,8 @@
 layout: post
 date: 2019-01-20
 title: "Freeroll Roadmap"
+tags: freeroll professional
+author: Ted
 ---
 #### General
 My vision is a little fuzzy on where I want to take [freeroll.io](https://freeroll.io).

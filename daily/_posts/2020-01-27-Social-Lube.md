@@ -2,6 +2,8 @@
 layout: post
 date: 2020-01-27
 title: "Social Lube"
+tags: idea communication
+author: Ted
 ---
 
 Idea: Comedy as a lubricant[1] for changing hearts and mind.

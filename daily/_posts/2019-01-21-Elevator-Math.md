@@ -2,6 +2,8 @@
 layout: post
 date: 2019-01-21
 title: "Grandpa Elevator Wisdom"
+tags: reason
+author: Ted
 ---
 
 My grandfather thinks he is nice and send the elevator back down to the first floor on his ride up to his apartment.

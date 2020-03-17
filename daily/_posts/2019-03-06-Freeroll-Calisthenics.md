@@ -2,6 +2,8 @@
 layout: post
 date: 2019-03-06
 title: "Freeroll - Calisthenics b/f WSOP"
+tags: health freeroll
+author: Ted
 ---
 
 We have around 75 days here in Argentina before leaving for the WSOP. Let's see what kind of shape we can get into.

@@ -2,6 +2,8 @@
 layout: post
 title: "Materialism"
 date: 2020-02-03
+tags: idea
+author: Ted
 ---
 
 [In my old age] I'm starting to keep and treasure material things that I can pull out in the future as a reminder of a unique feeling, an extra-compassionate person, a meaningful experience, or an uncanny nicety.

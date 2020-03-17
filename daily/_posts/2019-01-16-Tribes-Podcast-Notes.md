@@ -2,7 +2,8 @@
 layout: post
 date: 2019-01-16
 title: "Tribes Podcast Notes"
-tags: [econtalk, ideas]
+tags: econtalk idea
+author: Ted
 ---
 Three ideas from the [econtalk episode](https://www.econtalk.org/sebastian-junger-on-tribe/) with S. Junger:
 
@@ -20,4 +21,4 @@ We should always be suspect of contempt because it is the easiest reaction.
 
 Lastly, tribalism is a wholly negative word these days. But maybe it should be looked at as a part of our nature and like most parts of our nature, leads to both good and evil.
 
-A great conversation full of new important moral ideas to think about. 
+A great conversation full of new important moral ideas to think about.

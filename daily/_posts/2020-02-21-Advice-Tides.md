@@ -2,6 +2,8 @@
 title: "Advice Tides"
 layout: post
 date: 2020-02-21
+tags: psychology
+author: Ted
 ---
 A disturbing phenomenon I have been noticing lately: At times I am open to suggestions and advice, at others I am closed.
 

@@ -2,6 +2,8 @@
 layout: post
 date: 2020-03-14
 title: "Take Advantage"
+tags: psychology random
+author: Ted
 ---
 
 In a strange and rare moment yesterday my mind bounced from _that doesn't make any sense_ to _Ohhh, I like that about myself_. Let me attempt to explain.

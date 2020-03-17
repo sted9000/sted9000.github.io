@@ -2,7 +2,8 @@
 layout: post
 title: "Transfer Learning in Meditation"
 date: 2019-01-02
-tags: [communication, meditation]
+tags: communication mindfulness
+author: Ted
 ---
 
 There was an interesting AMA in the [meditation subreddit](https://reddit.com/r/meditation) the other day where the point was raised about how meditation transfers to other areas of life. A few recent studies have shown how many cognitive abilities do not transfer as you might have expected. For example, playing and improving at a memory game may have no impact on your memory functions in real life.  

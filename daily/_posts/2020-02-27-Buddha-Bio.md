@@ -2,6 +2,8 @@
 layout: post
 title:  "Buddha Biography - Notes"
 date: 2020-02-27
+tags: book mindfulness
+author: Ted
 ---
 
 Memorable Ideas:

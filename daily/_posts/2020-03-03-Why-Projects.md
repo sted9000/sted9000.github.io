@@ -2,6 +2,8 @@
 layout: post
 title:  "Why am I doing xyz?"
 date: 2020-03-03
+tags: psychology
+author: Ted
 ---
 
 Why am I doing x, y, or z?

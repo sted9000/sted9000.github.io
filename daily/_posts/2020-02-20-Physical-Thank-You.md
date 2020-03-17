@@ -2,6 +2,8 @@
 title: "Physical Health Thank You Note"
 layout: post
 date: 2020-02-20
+tags: health thank-you
+author: Ted
 ---
 Today I would like to thank a few people that I in my estimation have the most to do with my current physical health, which today is the object of great joy and gratitude.
 

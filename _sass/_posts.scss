@@ -1,4 +1,7 @@
 .post{
+    h1 {
+        margin-bottom: 0px;
+    }
   ul{
     padding-inline-end:40px;
     padding-inline-start: 20px;
@@ -37,4 +40,12 @@
 
 .PageNavigation .next {
   text-align: right;
+}
+
+.postMetaData {
+    span {
+        font-size: .85em;
+        font-style: italic;
+    }
+    margin-bottom: 30px;
 }

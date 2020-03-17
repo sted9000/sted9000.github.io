@@ -2,7 +2,8 @@
 layout: post
 date: 2020-02-16
 title: "Rule: If it is funny, say it."
-tags: [rules, comedy]
+tags: rules funny
+author: Ted
 ---
 
 > "If it is funny, say it." R. Gervais

@@ -2,7 +2,8 @@
 layout: post
 date: 2019-01-06
 title: "Thinking vs Knowing"
-tags: [thinking, idea, trustory]
+tags: reason idea
+author: Ted
 ---
 [Trustory](https://www.trustory.io/) is a platform in development that is aiming to be a truth layer on the internet.
 In [this discussion thread](https://discourse.trustory.io/t/will-trustory-teach-me-how-to-think/233) members were talking about thinking.

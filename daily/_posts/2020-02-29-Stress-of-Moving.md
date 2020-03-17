@@ -2,6 +2,8 @@
 layout: post
 title:  "Stress of Moving"
 date: 2020-02-29
+tags: idea
+author: Ted
 ---
 
 More than once I have been told that moving induces more stress than about any other major life event.
@@ -13,4 +15,4 @@ Ideas:
 - Decide what is important during this process. Let the rest fall where it may.
 - Good upfront communication and knowing what is important to your partner.
 - This is a new chance to decide again what stuff really matters and what stuff to allow into our lives. Be grateful.
-- Not every decision is best made together. Delegate where appropriate. 
+- Not every decision is best made together. Delegate where appropriate.

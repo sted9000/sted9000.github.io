@@ -2,6 +2,8 @@
 layout: post
 date: 2020-01-19
 title: "Same Same - But Different"
+tags: beauty
+author: Ted
 ---
 
 I remember living in Thailand seeing lot of people with Same Same But Different shirts.

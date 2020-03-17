@@ -2,6 +2,8 @@
 layout: post
 date: 2020-03-07
 title: "Yoga - Beginner's Mind"
+tags: health random
+author: Ted
 ---
 I am thoroughly enjoying my growing yoga routine. My body feels powerful and relaxed and my mind feels renewed and fresh after each practice.
 

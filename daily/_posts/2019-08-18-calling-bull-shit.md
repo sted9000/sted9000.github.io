@@ -1,8 +1,9 @@
 ---
-layout: daily
-author: Ted Slocum
+layout: post
+author: Ted
 title: Calling Bull-Shit
-tags: [ BS, Compassion, Mindfulness ]
+tags: bullshit compassion mindfulness
+date: 2019-08-18
 ---
 I struggle calling bull-shit.
 

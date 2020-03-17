@@ -2,6 +2,8 @@
 layout: post
 date: 2019-05-23
 title: "Freeroll - Juggle Four Balls"
+tags: freeroll
+author: Ted
 ---
 
 Hola Martu.

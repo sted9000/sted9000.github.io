@@ -2,6 +2,8 @@
 layout: post
 date: 2020-01-31
 title: "Improbable Positive Event"
+tags: random
+author: Ted
 ---
 
 Yesterday I had extended conversations with each of my siblings. A rare gift.

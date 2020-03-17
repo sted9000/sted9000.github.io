@@ -2,7 +2,8 @@
 layout: post
 date: 2019-01-08
 title: "P Krugman - Notes"
-tags: [krugman, people, ideas]
+tags: krugman people idea
+author: Ted
 ---
 
 ## Paul Krugman
