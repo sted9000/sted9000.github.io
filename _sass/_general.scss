@@ -114,3 +114,17 @@ blockquote{
     display: inline;
   }
 }
+
+.highligher-rouge {
+    padding: .25em .5em;
+    // font-size: 85%;
+    color: $color_dark_green;
+    background-color: #f9f9f9;
+    border-radius: 3px;
+}
+
+.no-underline {
+    display: inline-block;
+    margin: 5px 5px;
+    text-decoration: none;
+}

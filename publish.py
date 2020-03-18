@@ -10,7 +10,7 @@ now = datetime.datetime.now()
 
 Path = Path('.')
 author = 'Ted'
-tags = ['health', 'mindfulness', 'attention', 'bullshit', 'compassion', 'beauty', 'freeroll', 'bias', 'wonder', 'tech', 'finance', 'crypto', 'prediction', 'idea', 'language', 'communication', 'relationships', 'books', 'professional', 'emotions', 'reason', 'productivity', 'harris', 'brooks', 'weinstein']
+tags = ['health', 'people', 'random', 'mindfulness', 'attention', 'bullshit', 'compassion', 'beauty', 'freeroll', 'bias', 'wonder', 'tech', 'finance', 'crypto', 'prediction', 'idea', 'language', 'communication', 'relationships', 'books', 'professional', 'emotions', 'reason', 'productivity', 'harris', 'brooks', 'weinstein']
 
 ### list drafts
 drafts = [x for x in (Path / '_drafts').iterdir()]
