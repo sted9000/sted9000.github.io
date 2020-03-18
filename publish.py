@@ -51,68 +51,68 @@ for word in title_list:
 print()
 user_title_input = input(f'Correct Title(y): {title}? ')
 if user_title_input == 'y':
-    new_title = title
+    new_title = title.strip()
 else:
-    new_title = input('Please input new title: ')
+    new_title = input('Please input new title: ').strip()
 
 
 ### Write markdown file
 
-# Header
-f = open((Path / 'daily' / '_posts' / f'{date}-{draft_to_publish}'), 'x')
-f.write('---\n')
-f.write(f'date: {date}\n')
-f.write(f'layout: {layout}\n')
-f.write(f'author: {author}\n')
-f.write(f'title: {new_title}\n')
-if tags_for_post != None:
-    f.write('tags: ')
-    for i, tag in enumerate(tags_for_post):
-        if i+1 != len(tags_for_post): f.write(tag + ' ')
-        else: f.write(tag + '\n')
-f.write('---\n')
-
-# Content
-d = open((Path / '_drafts' / draft_to_publish), 'r')
-for line in d: f.write(line)
-f.close()
-
-### Publish to github
-
-# pull
-pull = subprocess.Popen(["git", "pull"], stdout=PIPE, stderr=PIPE)
-stdoutput, stderroutput = pull.communicate()
-if b'fatal' in stdoutput:
-    print("Fatal error in pull, aborting script")
-    sys.exit()
-else:
-    print("Pull successful")
-
-# add
-add = subprocess.Popen(["git", "add", (Path / 'daily' / '_posts' / f'{date}-{draft_to_publish}')])
-stdoutput, stderroutput = add.communicate()
-
-# commit
-commit = subprocess.Popen(["git", "commit", "-m", f'new post {date}'], stdout=PIPE, stderr=PIPE)
-stdoutput, stderroutput = commit.communicate()
-if b'fatal' in stdoutput:
-    print("Fatal error in commit, aborting script")
-    sys.exit()
-else:
-    print("Commit successful")
-
-# push
-push = subprocess.Popen(["git", "push"], stdout=PIPE, stderr=PIPE)
-stdoutput, stderroutput = push.communicate()
-if b'fatal' in stdoutput:
-    print("Fatal error in push, aborting script")
-    sys.exit()
-else:
-    print("Push successful")
+# # Header
+# f = open((Path / 'daily' / '_posts' / f'{date}-{draft_to_publish}'), 'x')
+# f.write('---\n')
+# f.write(f'date: {date}\n')
+# f.write(f'layout: {layout}\n')
+# f.write(f'author: {author}\n')
+# f.write(f'title: {new_title}\n')
+# if tags_for_post != None:
+#     f.write('tags: ')
+#     for i, tag in enumerate(tags_for_post):
+#         if i+1 != len(tags_for_post): f.write(tag + ' ')
+#         else: f.write(tag + '\n')
+# f.write('---\n')
+#
+# # Content
+# d = open((Path / '_drafts' / draft_to_publish), 'r')
+# for line in d: f.write(line)
+# f.close()
+#
+# ### Publish to github
+#
+# # pull
+# pull = subprocess.Popen(["git", "pull"], stdout=PIPE, stderr=PIPE)
+# stdoutput, stderroutput = pull.communicate()
+# if b'fatal' in stdoutput:
+#     print("Fatal error in pull, aborting script")
+#     sys.exit()
+# else:
+#     print("Pull successful")
+#
+# # add
+# add = subprocess.Popen(["git", "add", (Path / 'daily' / '_posts' / f'{date}-{draft_to_publish}')])
+# stdoutput, stderroutput = add.communicate()
+#
+# # commit
+# commit = subprocess.Popen(["git", "commit", "-m", f'new post {date}'], stdout=PIPE, stderr=PIPE)
+# stdoutput, stderroutput = commit.communicate()
+# if b'fatal' in stdoutput:
+#     print("Fatal error in commit, aborting script")
+#     sys.exit()
+# else:
+#     print("Commit successful")
+#
+# # push
+# push = subprocess.Popen(["git", "push"], stdout=PIPE, stderr=PIPE)
+# stdoutput, stderroutput = push.communicate()
+# if b'fatal' in stdoutput:
+#     print("Fatal error in push, aborting script")
+#     sys.exit()
+# else:
+#     print("Push successful")
 
 ### check to see if site built
 print("Waiting for Github Pages to build...")
-time.sleep(30)
+# time.sleep(30)
 
 #  Fetch index of blog and check title of post
 def LastPostTitle():
@@ -120,7 +120,7 @@ def LastPostTitle():
     parsed_frontpage = BeautifulSoup(frontpage, 'html.parser')
     a_title = parsed_frontpage.body.find(
         'div', class_='recent-posts-mendokusai').find('a').text
-    return title in a_title
+    return new_title == a_title
 
 def removeDraft():
     remove((Path / '_drafts' / draft_to_publish))
