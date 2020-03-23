@@ -1,9 +1,3 @@
----
-layout: post
-date: 2020-03-21
-title: "The Power of Ashtanga Yoga - Notes - Part 2"
----
-
 - Each breath being composed of 4 distinct parts (inhalation, exhasation, the spaces between the two).
 
 - While _you are what you eat_ is not exactly true, food can define or reflect your approach to life.

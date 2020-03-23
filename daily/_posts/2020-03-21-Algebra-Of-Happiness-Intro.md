@@ -3,7 +3,7 @@ date: 2020-03-21
 layout: post
 author: Ted
 title: Algebra Of Happiness Intro
-tags: books
+tags: book algebra-of-happiness
 ---
 I recently finished a _self help_ book of a different sort. Normally I consume flavors of Buddhist philosophy with varying narratives and covers. Thoughts are silly and ultimately uncontrollable. Emotions are fleeting. Material striving is unwise. Attachment is the root of discontent...
 

@@ -1,10 +1,3 @@
----
-date: 2020-03-22
-layout: post
-author: Ted
-title: Algebra Of Happiness Entrepreneur
-tags: funny
----
 In large part the book is directed towards aspiring entrepreneurs or business-school students (a relevant topic given his [background](https://tedslocum.com/daily/2020/03/21/Algebra-Of-Happiness-Intro)). The author, Scott Galloway, has a lot to say about what separates success from failure, but starts off on a humble note.  
 
 > The truth about 90+% of entrepreneurs is that we start companies not because we're so skilled, but because we don't have the skills to be an effective employee.
