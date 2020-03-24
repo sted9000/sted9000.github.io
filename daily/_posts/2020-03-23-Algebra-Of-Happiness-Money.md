@@ -2,7 +2,7 @@
 date: 2020-03-23
 layout: post
 author: Ted
-title: Algebra Of Happiness Money
+title: Algebra Of Happiness - Money
 tags: book algebra-of-happiness series finance
 ---
 In the Algebra of Happiness, Scott Galloway has a unique and honest perspective regarding finances and wealth. Having been shaped by the experience of his single mother getting cancer and him not being a good position to support her, he makes a strong case for financial security being a necessity.

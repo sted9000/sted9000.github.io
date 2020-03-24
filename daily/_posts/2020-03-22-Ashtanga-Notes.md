@@ -3,7 +3,7 @@ date: 2020-03-22
 layout: post
 author: Ted
 title: Ashtanga Notes
-tags: books health
+tags: book health
 ---
 - Emphasis on the breathing over the perfection of the physical form.
 - Physical discomfort is a big part of the practice, but you should never experience pain in your joints.

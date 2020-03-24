@@ -1,19 +1,15 @@
 .badge-cont {
-
-    text-align: center;
     margin-bottom: 30px;
+    text-align: center;
 
     .badge {
-        display: inline-block;
         margin: 4px 2px;
-        padding: 2px 6px;
-        font-size: .8em;
+        padding: 4px 6px;
+        background-color: blue;
         border-radius: .5em;
-
-        a {
-            color: white;
-            text-decoration: none;
-        }
+        font-size: .8em;
+        span { color: white; font-size: 1em; }
+        a { text-decoration: none; }
     }
 
     .blog {background-color: blue;}

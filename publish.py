@@ -15,6 +15,15 @@ now = datetime.datetime.now()
 Path = Path('.')
 author = 'Ted'
 post_dir = 'daily/_posts/'
+
+
+### Insert badge data into index.html
+index_file = open('index.html', 'r').readlines()
+for line in index_file:
+    for filler in ['blog-text', 'meditation-text', 'yoga-text', 'failio-text', 'sleep-text', 'call-text']:
+        if filler in line:
+            print(line.replace(filler, '5'))
+
 ### User input for blog to publish
 
 # Select draft
