@@ -8,6 +8,7 @@ import subprocess
 from os import remove
 import glob
 import os
+from badge import badges_dict
 
 ### Variables
 PIPE = subprocess.PIPE
@@ -16,13 +17,22 @@ Path = Path('.')
 author = 'Ted'
 post_dir = 'daily/_posts/'
 
-
 ### Insert badge data into index.html
-index_file = open('index.html', 'r').readlines()
-for line in index_file:
-    for filler in ['blog-text', 'meditation-text', 'yoga-text', 'failio-text', 'sleep-text', 'call-text']:
-        if filler in line:
-            print(line.replace(filler, '5'))
+# Read in the file
+with open('index.html', 'r') as file :
+  filedata = file.read()
+
+# Replace the target string
+filedata = filedata.replace('blog-text', str(badges_dict["blog"]["streak"]))
+filedata = filedata.replace('meditation-text', str(badges_dict["meditation"]["streak"]))
+filedata = filedata.replace('yoga-text', str(badges_dict["meditation"]["streak"]))
+filedata = filedata.replace('failio-text', str(badges_dict["failio"]["streak"]))
+filedata = filedata.replace('sleep-text', str(badges_dict["sleep"]["streak"]))
+filedata = filedata.replace('call-text', str(badges_dict["call"]["streak"]))
+
+# Write the file out again
+with open('index.html', 'w') as file:
+  file.write(filedata)
 
 ### User input for blog to publish
 
@@ -119,7 +129,9 @@ else:
     print("Pull successful")
 
 # add
-add = subprocess.Popen(["git", "add", (Path / 'daily' / '_posts' / f'{date}-{draft_to_publish}')])
+add = subprocess.Popen(["git", "add", (Path / 'daily' / '_posts' / f'{date}-{draft_to_publish}') ])
+stdoutput, stderroutput = add.communicate()
+add = subprocess.Popen(["git", "add", (Path / 'index.html')])
 stdoutput, stderroutput = add.communicate()
 
 # commit
@@ -154,6 +166,14 @@ def LastPostTitle():
 
 def removeDraft():
     remove((Path / '_drafts' / draft_to_publish))
+
+def replaceIndex():
+    with open('index.html.bak', 'r') as file :
+      filedata = file.read()
+
+    # Write the file out again
+    with open('index.html', 'w') as file:
+      file.write(filedata)
 
 
 print("Checking whether new post is on live site")

@@ -7,6 +7,19 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Wedding Thoughts</title>
+        <description>&lt;p&gt;Previously when asked about my future and imaginative wedding I had no opinions. While I would still happily defer any preferences to my partner, now I do have some strong opinions.&lt;/p&gt;
+
+&lt;p&gt;Why the change? Because a good wedding is just fucking great.&lt;/p&gt;
+
+&lt;p&gt;It’s a celebration of the best kind - a commitment. It’s tasty food. It’s a coming together of the normally segregated people of our lives. Live entertainment (guitar player, dancers, songs, a band)! Letting loose, smiling, laughing, and dancing. Reminiscing about the past that has brought all these great people together. A marvelous party.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Mar 2020 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000//daily/2020/03/24/Wedding-Thoughts</link>
+        <guid isPermaLink="true">http://localhost:4000//daily/2020/03/24/Wedding-Thoughts</guid>
+      </item>
+    
+      <item>
         <title>Algebra Of Happiness - Money</title>
         <description>&lt;p&gt;In the Algebra of Happiness, Scott Galloway has a unique and honest perspective regarding finances and wealth. Having been shaped by the experience of his single mother getting cancer and him not being a good position to support her, he makes a strong case for financial security being a necessity.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -184,23 +197,6 @@
         <pubDate>Sun, 15 Mar 2020 00:00:00 -0300</pubDate>
         <link>http://localhost:4000//daily/2020/03/15/Envy</link>
         <guid isPermaLink="true">http://localhost:4000//daily/2020/03/15/Envy</guid>
-      </item>
-    
-      <item>
-        <title>Take Advantage</title>
-        <description>&lt;p&gt;In a strange and rare moment yesterday my mind bounced from &lt;em&gt;that doesn’t make any sense&lt;/em&gt; to &lt;em&gt;Ohhh, I like that about myself&lt;/em&gt;. Let me attempt to explain.&lt;/p&gt;
-
-&lt;p&gt;I had just finished expressing how I love that I walk everywhere in my life, when I was expressing that one of the things I was looking forward to in the next couple years is the fact that I will spend a lot of time driving.&lt;/p&gt;
-
-&lt;p&gt;Enter, &lt;em&gt;that doesn’t make any sense&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Split second…&lt;/p&gt;
-
-&lt;p&gt;Enter, &lt;em&gt;wait, that is actually pretty cool. I am not attached to one or the other, rather, I can find joy in taking advantage of both when appropriate&lt;/em&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 14 Mar 2020 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000//daily/2020/03/14/Take-Advantage</link>
-        <guid isPermaLink="true">http://localhost:4000//daily/2020/03/14/Take-Advantage</guid>
       </item>
     
   </channel>

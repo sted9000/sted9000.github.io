@@ -1,13 +1,21 @@
 .badge-cont {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
     margin-bottom: 30px;
     text-align: center;
 
+    @media only screen and (max-width:540px) {
+      display: none;
+     }
+
     .badge {
-        margin: 4px 2px;
+        margin: 4px 4px;
         padding: 4px 6px;
         background-color: blue;
         border-radius: .5em;
-        font-size: .8em;
+        font-size: .75em;
         span { color: white; font-size: 1em; }
         a { text-decoration: none; }
     }
