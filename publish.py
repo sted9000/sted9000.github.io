@@ -22,6 +22,10 @@ post_dir = 'daily/_posts/'
 with open('index.html', 'r') as file :
   filedata = file.read()
 
+# Write the file out again
+with open('index.html.bak', 'w') as file:
+  file.write(filedata)
+
 # Replace the target string
 filedata = filedata.replace('blog-text', str(badges_dict["blog"]["streak"]))
 filedata = filedata.replace('meditation-text', str(badges_dict["meditation"]["streak"]))

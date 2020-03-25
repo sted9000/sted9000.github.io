@@ -10,7 +10,7 @@ _Signing the front of the check_ he explains is a counter intuitive and slightly
 
 > You will need to pay the company for the right to work your ass off until you can raise money.
 
-He emphasizes selling as a defining feature of an entrepreneur (much like Peter Thiel does in _Zero to One_). While acknowledging the grimy connotation of sells, he stresses it's necessity.  
+He emphasizes selling as a defining feature of an entrepreneur (much like Peter Thiel does in _Zero to One_). While acknowledging the grimy connotation of sales, he stresses it's necessity.  
 
 > The word "entrepreneur" is a synonym for "salesperson".
 
