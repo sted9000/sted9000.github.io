@@ -10,29 +10,15 @@ import glob
 import os
 from badge import badges_dict
 
+### Update config file with badge data
+os.system("python3 badge.py")
+
 ### Variables
 PIPE = subprocess.PIPE
 now = datetime.datetime.now()
 Path = Path('.')
 author = 'Ted'
 post_dir = 'daily/_posts/'
-
-### Insert badge data into index.html
-# Read in the file
-with open('index.html', 'r') as file :
-  filedata = file.read()
-
-# Replace the target string
-filedata = filedata.replace('blog-text', str(badges_dict["blog"]["streak"]))
-filedata = filedata.replace('meditation-text', str(badges_dict["meditation"]["streak"]))
-filedata = filedata.replace('yoga-text', str(badges_dict["meditation"]["streak"]))
-filedata = filedata.replace('failio-text', str(badges_dict["failio"]["streak"]))
-filedata = filedata.replace('sleep-text', str(badges_dict["sleep"]["streak"]))
-filedata = filedata.replace('call-text', str(badges_dict["call"]["streak"]))
-
-# Write the file out again
-with open('index.html', 'w') as file:
-  file.write(filedata)
 
 ### User input for blog to publish
 

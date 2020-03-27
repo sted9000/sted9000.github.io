@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/authors/ted</loc>
-<lastmod>2020-03-24T21:21:25-03:00</lastmod>
+<lastmod>2020-03-26T23:08:23-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/daily/2019/01/01/2019-Year-of-Communication</loc>
@@ -355,6 +355,14 @@
 <url>
 <loc>http://localhost:4000/daily/2020/03/24/Wedding-Thoughts</loc>
 <lastmod>2020-03-24T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/daily/2020/03/25/Algebra-Of-Happiness-Entrepreneur</loc>
+<lastmod>2020-03-25T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/daily/2020/03/26/Against-The-Grain</loc>
+<lastmod>2020-03-26T00:00:00-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/404</loc>

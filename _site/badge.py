@@ -16,10 +16,6 @@ with open('/home/ted/Desktop/data.csv', newline='') as f:
     reader = csv.reader(f)
     data = list(reader)
 
-for cat in data[0][1:]:
-    badges_dict[cat]["streak"] = 1
-
-
 for row in data[1:]: # loop through dates
     datetime_obj = datetime.strptime(row[0], '%Y-%m-%d') # convert string to datetime obj
     if datetime_obj <= today: # if today or before
@@ -29,3 +25,19 @@ for row in data[1:]: # loop through dates
                 if badges_dict[key]["csv_row"] == i: # if col corresponds
                     if int(col) == 0: badges_dict[key]["streak"] = 0
                     else: badges_dict[key]["streak"] += int(col)
+
+# Read in the file
+with open('_config.yml', 'r') as file :
+  filedata = file.read()
+
+# Replace the target string
+filedata = filedata.replace('blogstreak: NA', 'blogstreak: ' + str(badges_dict["blog"]["streak"]))
+filedata = filedata.replace('sitstreak: NA', 'sitstreak: ' + str(badges_dict["meditation"]["streak"]))
+filedata = filedata.replace('yogastreak: NA', 'yogastreak: ' + str(badges_dict["meditation"]["streak"]))
+filedata = filedata.replace('failiostreak: NA', 'failiostreak: ' + str(badges_dict["failio"]["streak"]))
+filedata = filedata.replace('sleepstreak: NA', 'sleepstreak: ' + str(badges_dict["sleep"]["streak"]))
+filedata = filedata.replace('callstreak: NA', 'callstreak: ' + str(badges_dict["call"]["streak"]))
+
+# Write the file out
+with open('_config.yml', 'w') as file:
+  file.write(filedata)
