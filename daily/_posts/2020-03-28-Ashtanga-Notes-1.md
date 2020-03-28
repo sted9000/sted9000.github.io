@@ -2,7 +2,7 @@
 date: 2020-03-28
 layout: post
 author: Ted
-title: The Power of AshPart 2
+title: The Power of Ashtanga - Part 2
 tags: yoga health book series
 ---
 - Each breath being composed of 4 distinct parts (inhalation, exhasation, the spaces between the two).

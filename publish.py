@@ -8,10 +8,10 @@ import subprocess
 from os import remove
 import glob
 import os
-from badge import badges_dict
+# from badge import badges_dict
 
 ### Update config file with badge data
-os.system("python3 badge.py")
+# os.system("python3 badge.py")
 
 ### Variables
 PIPE = subprocess.PIPE
