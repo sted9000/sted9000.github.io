@@ -5,11 +5,11 @@ author: Ted
 title: Blogging Mafia
 tags: blog
 ---
-3 of my close friends have started blogging more or less as a direct result of me starting to blog. (Perhaps a bit of consider and arm twisting was also involved.)
+3 of my close friends have started blogging more or less as a direct result of me starting to blog. (Perhaps a bit of coercion and arm twisting was also involved.)
 
 I love it. It makes my morning. Every morning.
 
-It is different and a whole lot betting than seeing friends' posts on Instagram.
+It's different and a whole lot better than seeing friends' posts on Instagram.
 
 More hobbyist. More genuine.
 
