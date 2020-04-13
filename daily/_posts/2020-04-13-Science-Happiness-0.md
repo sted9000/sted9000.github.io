@@ -16,7 +16,7 @@ The distinction is useful because even though most of the time we are _in our li
 
 On a personal note I could be doing better on both fronts.
 
-1. Daily spend time lost is frustration due to a lack of perspective combined with avoidable agitation.
-2. "If only X happened I would be..." is a too frequent guest in my mind to honestly say that I am happy _about my life_.
+1. Daily I spend time lost in frustration due to a lack of perspective combined with avoidable agitation.
+2. "If only X happened, I would be..." is too frequently a guest in my mind to honestly say that I am happy _about my life_.
 
 To be continued...
