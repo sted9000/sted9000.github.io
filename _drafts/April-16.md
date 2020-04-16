@@ -2,7 +2,7 @@ Today is the day that I _should have_ died. April 16th, 2017.
 
 ---
 
-I suppose that if I plan on writing this blog for years and years to come, I should start with the story. It was a story that I was too embarrassed to tell until years afterwards - having to wait until it dropped its large portion of shame.
+I suppose that if I plan on writing this blog for years and years to come, I should simply start with the story. It is a story that I was too embarrassed to tell until years afterwards - having to wait until it dropped its large portion of shame.
 
 Planning tomorrows drive - the ten hours from Virginia to Michigan - I took a sleep aid and drifted off to sleep with the hopes of an early start.
 
