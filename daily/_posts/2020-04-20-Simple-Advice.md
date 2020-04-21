@@ -9,7 +9,7 @@ A few days ago I heard a very very very simple and retrospectively _obvious_ pie
 
 Which has me wondering...
 
-What are the similar pieces of advice in other aspects of life? How and why are can they be so powerful?
+What are the similar pieces of advice in other aspects of life? How and why are they be so powerful?
 
 So far I have theorized that they might share these attributes:
 
