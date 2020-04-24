@@ -8,4 +8,4 @@ Could Be Styles or Categories:
 5. Lists
 6. Reviews
 7. A running brag about how Jonny [lost and will lose again](https://jonnyspicer.com/mendokusai/2020/02/11/i-also-won-and-i-will-also-win-again)
-8. A time-capsule (ideas, people, and experience I don't want to be lost to time)
+8. A time-capsule (ideas, people, and experience I don't want to be lost)
