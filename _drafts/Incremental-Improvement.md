@@ -8,4 +8,4 @@ And when I imagine slow daily incremental progress towards my goals and characte
 
 Yet I find it so daunting to put into practice. To inch forward every day.
 
-But I know that it's not going away. It's the obstacle. It's resistance. It's part of the game :+)
+But I know that it's not going away. It's resistance. It's part of the game :+)

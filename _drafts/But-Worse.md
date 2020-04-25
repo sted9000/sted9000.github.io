@@ -1,0 +1,5 @@
+So say you are a bit on edge with all the newness, the change, the staying at home, and the financial instability going on with COVID19. Just imagine that is the case (I know you are thriving and making the most out of this opportunity, but just play along with me and imagine).
+
+Now imagine that your currency has just been devalued by 30%. Your salary is still the same, but everything costs 30% more.
+
+COVID19, but worse. 

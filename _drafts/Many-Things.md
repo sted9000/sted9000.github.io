@@ -1,4 +1,4 @@
-The blog is becoming many things. A random sampling of my life of sorts, not pigeonholed by style or categories. This is not what I had in mind when starting it a few months ago. But let's roll with it.
+The blog is becoming many things. A random sampling of my life of sorts, not pigeonholed by style or categories. This is not what I had in mind when starting it a few months ago. But let's roll with it for now.
 
 Could Be Styles or Categories:
 1. Traditional Blog (put a point on an idea and drop it)
