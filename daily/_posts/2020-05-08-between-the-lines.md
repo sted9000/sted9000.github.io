@@ -13,14 +13,14 @@ One of my favorite examples is a NN Taleb aphorism.
 
 An example from my speech recently.
 
-> I like the fact that I have ____ reaction when ____ happens.
+> I like the fact that I have x reaction when y happens.
 
-Translates to, I _wish_ I had the ____ reaction when ____ happens. Not so much a lie as self-deception.
+Translates to, I _wish_ I had the x reaction when y happens. Not so much a lie as self-deception.
 
 An example from my partner recently.
 
-> I have already accepted ____.
+> I have already accepted x.
 
-Translates to, I have _just begun_ to accept ____, it is not easy. Not so much a lie as a positive affirmation.
+Translates to, I have _just begun_ to accept x, it is not easy. Not so much a lie as a positive affirmation.
 
 So my tentative conclusion is that reading between the lines is not always a fool's errand. There is some room for it if done skillfully.
