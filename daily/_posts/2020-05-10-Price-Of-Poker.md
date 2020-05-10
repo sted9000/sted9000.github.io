@@ -14,6 +14,7 @@ Here are my initial thoughts:
 - [yourpokerdream.com](https://www.yourpokerdream.com/the-big-rake-comparison-of-all-online-poker-sites-2018/) - Not stake specific
 - [rakerace.com](http://www.rakerace.com/poker_rooms) - Good filters, but not focused on rake
 - [rakeback.com](http://www.rakeback.com/rakeback-calculator/) - Only has a small list of sites, but nice that it tells you a specific number for rake/rakeback.
+
 2. It would be really easy to make if all the data you use is static.
 3. SEO would be very important.
 4. It has fixed costs approaching zero.
