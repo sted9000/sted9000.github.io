@@ -1,19 +1,12 @@
----
-date: 2020-05-10
-layout: post
-author: Ted
-title: Price Of Poker
-tags: idea professional
----
 Price of Poker - An idea a friend had and that I have been thinking about. Every professional poker player (and perhaps many amateurs) has created a spreadsheet titled Rake Structures to help inform them what site and stakes they should play on.   
 
 Here are my initial thoughts:
 1. Some sites like this already exist, but all have problems.
 
-- [rakeatpoker.com](https://rakeatpoker.com/) - Outdated, good info and charts
-- [yourpokerdream.com](https://www.yourpokerdream.com/the-big-rake-comparison-of-all-online-poker-sites-2018/) - Not stake specific
-- [rakerace.com](http://www.rakerace.com/poker_rooms) - Good filters, but not focused on rake
-- [rakeback.com](http://www.rakeback.com/rakeback-calculator/) - Only has a small list of sites, but nice that it tells you a specific number for rake/rakeback.
+- https://rakeatpoker.com/ - Outdated, good info and charts
+- https://www.yourpokerdream.com/the-big-rake-comparison-of-all-online-poker-sites-2018/ - Not stake specific
+- http://www.rakerace.com/poker_rooms - Good filters, but not focused on rake
+- http://www.rakeback.com/rakeback-calculator/ - Only has a small list of sites, but nice that it tells you a specific number for rake/rakeback.
 2. It would be really easy to make if all the data you use is static.
 3. SEO would be very important.
 4. It has fixed costs approaching zero.
