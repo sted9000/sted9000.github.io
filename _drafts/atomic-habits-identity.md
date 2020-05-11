@@ -1,0 +1,17 @@
+- Three layers of behavior change 1(inner to outer):
+	- Identity
+	- Processes
+	- Outcomes
+- Behavior that is not congruent with the self will not last.
+- The ultimate form of intrinsic motivation is when a habit becomes part of your identity.
+- True behavior change is identity change.
+- The biggest barrier to positive change at any level - individual, team, society - is identity conflict.
+- Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.
+- The effect of one-off experiences tends to fade away while the effect of habits get reinforced with time, which means your habits contribute most of the evidence that shapes your identity. In this way, the process of building habits is actually the process of becoming yourself.
+- Every action you take is a vote for the type of person you with to become.
+- The most practical way to change who you are is to change what you do. Two steps:
+	- Decide the type of person you want to be.
+	- Prove it to yourself with small wins.
+- That's fine. Start there and work backwards from the results you want to the type of person who could get those results. Ask yourself "Who is the type of person that could get the outcome I want?"
+- Your habits shape your identity, and your identity shapes your habits. It's a two-way street.
+- "Are you becoming the type of person you want to become?" The first step is not what or how, but who.
