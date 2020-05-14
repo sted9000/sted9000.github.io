@@ -5,7 +5,7 @@ author: Ted
 title: Spring of Wellbeing
 tags: wisdom mindfulness
 ---
-Please reader(s) tell me when the repetition becomes too much. But until that point I don't see myself dropping the issue because it is so mysterious amazing, and got'damn cool.
+Please reader(s) tell me when the repetition becomes too much. But until that point I don't see myself dropping the issue because it is so mysterious, amazing, and got'damn cool.
 
 The fact that we are conscious. The lights are on. There is something that it is like to be you. The fact that we are aware of anything at all. This obvious (yet extremely easy to overlook) fact is mysterious and is the basis of ALL meaning.
 
