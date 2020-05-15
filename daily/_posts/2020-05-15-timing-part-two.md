@@ -23,4 +23,6 @@ Every cell in my body is telling me that I am a genius and that I can bathe in t
 
 This is the precise moment for stoicism. Rather than only turning towards philosophy when you are down and need a strategy to rebuild, why not also use it when you are up and are full of petty ego.
 
-> "To have a humble ego, regardless of circumstance." - Not a Marcus Aurelius quote. But could be.
+> To have a humble ego, regardless of circumstance.
+
+Not a Marcus Aurelius quote. But could be.
