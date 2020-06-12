@@ -21,6 +21,7 @@ Second, and lastly, you need to withdraw your burn * 1.25 from your bankroll per
 Risk-of-Ruin:
 
 While not quite as boring as making an excel sheet of your expenses, dealing with abstract maths is still far from glamorous. The essence of risk-of-ruin is as follows: Poker is simply a long series of small bets, and as such, you always need to make sure you have the capital to place those small bets. If your bets are small and your edge is large you will never go broke. If your bets are large and your edge is small you will certainly go broke. Calibrating your risk-of-ruin means setting up a system that lives between these two extremes.
+
 First, know yourself - your temperament and your goals. Are you risk-averse? Is poker your career, a short-term job, or a hobby? Do you handle swings well, or poorly? Do you have a family to support? Do you want to be a millionaire, or live a more frugal life? Sit down and consider these questions for a few moments - possibly consulting friends, family, or your partner for some clarity.
 
 Second, do the math. [This calculator](http://www.reviewpokerrooms.com/poker-games/general/bankroll-requirements.html) is a great tool. Two things to keep in mind when doing your calculations are your burn and your ability to move down in stakes. A few examples of simple back-of-the-envelope calculations will be in a [following post]("").
