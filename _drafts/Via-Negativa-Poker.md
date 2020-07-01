@@ -1,15 +1,7 @@
----
-date: 2020-07-01
-layout: post
-author: Ted
-title:
-tags: professional
----
 From the Art of Manliness
 
 > Via negativa is a Latin phrase used in Christian theology to explain a way of describing God by focusing on what he is not, rather than what he is; understanding Deity’s positive qualities is a task deemed impossible for the finite minds of humans.
-
-> Via negativa can also be used to describe a similarly “negative” way of improving one’s life; instead of concentrating on what you do, the focus turns to what you don’t do...
+Via negativa can also be used to describe a similarly “negative” way of improving one’s life; instead of concentrating on what you do, the focus turns to what you don’t do...
 
 Thinking about this in poker recently has been useful. Many situations have a large amount of 'mixing'. Effectively this means that different actions have similar expected values. So, what to do?
 
@@ -19,4 +11,4 @@ But there is another way to go about it - via negativa. If the expected values a
 
 The answer is your: opponent, his tendencies, and his psychology.
 
-This is now quite obvious writing it out... Hmm... Whatever... Thinking about this 'obvious' fact in this framework - of taking away information and details to see what remains  - has been very helpful as of late. And I suppose that's what is important.
+This is now quite obvious writing it out... Hmm... Whatever... Thinking about this 'obvious' fact in this framework - of taking away information and details to see what remains  - has been very helpful as of late. And I suppose that is what is important.

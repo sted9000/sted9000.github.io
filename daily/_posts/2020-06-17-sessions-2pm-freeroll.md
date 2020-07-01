@@ -14,11 +14,16 @@ The details are as follows:
 - I don't trust myself to be 100% honest here so **I must include receipts** (they will be posted here).
 - Failure will result in .75ETH be transferred
 
-Receipts:
-![monday](/assets/images/monday.png)
-![wednesday](/assets/images/wednesday.png)
-![friday](/assets/images/friday.png)
-![saturday](/assets/images/saturday.png)
-![sunday](/assets/images/sunday.png)
-
 Good Luck Us.
+
+Receipts:
+
+![monday](/assets/images/monday.png)
+
+![wednesday](/assets/images/wednesday.png)
+
+![friday](/assets/images/friday.png)
+
+![saturday](/assets/images/saturday.png)
+
+![sunday](/assets/images/sunday.png)
