@@ -1,0 +1,20 @@
+Tomorrow is an _off day_, where I will try not to be of any use.
+
+I am going to flip through a few new books to see which one captures my interest:
+
+1. [Transcend: The New Science of Self-Actualization](https://www.amazon.com/Transcend-Self-Actualization-Scott-Barry-Kaufman/dp/0143131206)
+1. [The Precipice: Existential Risk and the Future of Humanity](https://www.amazon.com/Precipice-Existential-Risk-Future-Humanity-ebook/dp/B07V9GHKYP/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+1. [The Self-Taught Programmer](https://www.amazon.com/gp/product/B01M01YDQA/ref=as_li_tl?ie=UTF8&tag=benzingacom-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M01YDQA&linkId=6805bed691c92f1ce45b664799108e10)
+1. [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/1930824130)
+
+I will probably go on an extra long walk with frank.
+
+Plan my week.
+
+Practice my typing speed.
+
+Catch up on all the messages I ignored over the weekend (I need to get better at this).
+
+Call my mom.
+
+I love my life.
