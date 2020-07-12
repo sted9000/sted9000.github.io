@@ -13,4 +13,4 @@ Seeing that we are moving soon, I have been stuck to take a few photos for the b
 
 ![masks](/assets/images/masks.jpg)
 
-![frank-mat](/assets/images/frank-map.jpg)
+![frank-mat](/assets/images/frank-mat.jpg)
