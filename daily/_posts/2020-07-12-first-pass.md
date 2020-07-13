@@ -9,7 +9,7 @@ I have been thinking about different rake, bonuses, sites, and game structures l
 
 Here is a first pass at some data from my play for the last two weeks.
 
-![first-pass](/assets/images/two-weeks-of-poker.md)
+![first-pass](/assets/images/two-weeks-of-poker.png)
 
 Sites now-a-days are very closed about how much they are charging to run the games. In the past a simple back-of-the-envelope calculation with the information the sites provided would do the trick. Now, with little information, it looks like a little more data processing is needed.
 
