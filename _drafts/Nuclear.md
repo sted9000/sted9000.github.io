@@ -1,5 +1,0 @@
-The fact that we live obliviously to the fact that nuclear bombs are pointed at us 24/7 is insane. Growing up on the eastern seaboard of the United States, not one minute was spent thinking about the idea that cold war policies have us living under constant danger 30 years later.
-
-I go around espousing how beautiful life is, but it is also terrifying. And this deserves some of our attention and energy as well.
-
-[A good place to start](https://samharris.org/podcasts/210-logic-doomsday/)

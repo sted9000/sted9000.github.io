@@ -22,14 +22,6 @@ url: "https://sted9000.github.io" # the base hostname & protocol for your site, 
 # twitter_username:
 github_username:  sted9000
 
-# Streaks
-blogstreak: 58
-sitstreak: 1
-yogastreak: 1
-failiostreak: 0
-sleepstreak: 0
-callstreak: 4
-
 sass:
  sass_dir: _sass
  style: compressed
@@ -40,6 +32,7 @@ collections:
   blog_names:
     output: true
 
+future: false
 
 permalink: /:categories/:year/:month/:day/:title
 

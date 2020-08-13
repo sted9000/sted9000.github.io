@@ -1,5 +1,0 @@
-NN Taleb introduced me to the concept of F-You Money, which is the amount of money you would need to say F-You those wishing to buy, influence, or hire you. F-You Money is a lot of money. 10 million or so is my number. Financial security for you, your offspring, and your loved ones.
-
-On the way to F-You Money, I am looking forward to passing through what I will call Massage Money. This is the point where you have enough dough that when you go get a massage, money never enters the equation. No "60 minutes @ $90... $1.50 per minute... is it worth it?" My metrics for Massage Money is having greater than $100 in truly passive income a day or 500k in the bank. This day will come and be glorious.
-
-One wrinkle to F-You and Massage money is that money alone doesn't qualify you to say "F-You" or "Do you have time for another 30 minutes?". You also need a particular psychology that values your true inner voice and not the crowd in your head. What a shame it would be to have the guita (argentine slang for dough/money) and lost the ability to hear your inner voice that screams F-You.
