@@ -1,5 +1,5 @@
 ---
-date: 2020-08-23
+date: 2020-08-22
 layout: post
 author: Ted
 title: Tears of Joy
