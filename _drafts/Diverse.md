@@ -1,0 +1,3 @@
+I have been harping on about how diverse my new city is. Turns out that the internet is quite diverse too. This message gave me an odd pleasure.
+
+![shabbat](/assets/images/shabbat.png)
