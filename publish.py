@@ -77,6 +77,7 @@ print()
 user_title_input = input(f'Correct Title: {title}(y)? Or enter new title: ')
 if user_title_input == 'y':
     new_title = title.strip()
+    print(f'The title in the script is: {new_title}')
 else:
     new_title = user_title_input.strip()
 
@@ -148,6 +149,8 @@ def LastPostTitle():
     parsed_frontpage = BeautifulSoup(frontpage, 'html.parser')
     a_title = parsed_frontpage.body.find(
         'div', class_='recent-posts-mendokusai').find('a').text
+    print(f'The title in the from the scraper is: {a_title}')
+    print(f'The titles are a match? {new_title == a_title}')
     return new_title == a_title
 
 def removeDraft():
