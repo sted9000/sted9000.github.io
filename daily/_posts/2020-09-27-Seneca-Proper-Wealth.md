@@ -2,7 +2,7 @@
 date: 2020-09-27
 layout: post
 author: Ted
-title: Seneca: Proper Limit of Wealth
+title: Seneca - Proper Limit of Wealth
 tags: Seneca
 ---
 > Do you ask what is the proper limit to wealth? It is, first, to have what is necessary, and, second, to have what is enough. - Seneca (On Discursiveness of Reading)
