@@ -2,7 +2,7 @@
 date: 2020-10-15
 layout: post
 author: Ted
-title: Kelly Says - 20 Days until Election
+title: Kelly Says -p 20 Days until Election
 tags: election
 ---
 If you believe the models (I do) and you believe in John Kelly's Scientific Gambling Method (I do), then a decent portion of your day today will be figuring out how to move money around and bet more on Biden. 
