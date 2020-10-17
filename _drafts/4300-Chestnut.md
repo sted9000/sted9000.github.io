@@ -1,0 +1,5 @@
+Admiring our apartment interior this week, both my partner and I agreed that while the inside is to our liking, we don't like the neighborhood - too much trash, too many crazy people, bashed in car windows, and sirens.
+
+And while I agree with my former self, I now have a different angle on it. If living in a seedy/inner-city/real-life-for-most-people-on-earth neighborhood inspires YOU to make good art and do good work, then you SHOULD live there. If it causes you to be fearful, shy away from your neighbors, and is a detriment to your work, then YOU SHOULD NOT. This is the Shakespear idea of _nothing is good nor bad, but thinking makes it so_. 
+
+And at the moment, I believe that I am drawing some energy from it that is helping me do good work. Living in my ivory tower is wonderful; walking the streets and seeing the real-world is humbling and empowering. 
