@@ -7,6 +7,11 @@ This script will do the following:
 import urllib.request
 import bs4 as bs
 import datetime
+from git import Repo
+from pathlib import Path
+
+Path = Path('.')
+
 
 def posted_today():
     """
@@ -21,6 +26,49 @@ def posted_today():
 
     return publish_date == today_date
 
-print(posted_today())
+
+def publish_post():
+    """
+    Pushes a new post
+    :return: No return
+    """
+    repo = Repo(Path)
+    repo.index.add([str(Path / 'daily' / '_posts' / f'{post_date}-{draft_to_publish.name}')])
+    repo.index.commit(f'new post {post_date}')
+    origin = repo.remote('origin')
+    origin.push()
 
 
+def choose_draft():
+    drafts = [x for x in (Path / '_drafts').iterdir()]
+
+    return drafts[0]
+
+
+def format_draft():
+    with open((Path / 'daily' / '_posts' / f'{post_date}-{draft_to_publish.name}'), 'x') as f:
+        f.write('---\n')
+        f.write(f'date: {post_date}\n')
+        f.write(f'layout: {post_layout}\n')
+        f.write(f'author: {post_author}\n')
+        f.write(f'title: {post_title}\n')
+        f.write(f'tags: {post_tag}\n')
+        f.write('---\n')
+
+        with open((Path / draft_to_publish), 'r') as d:
+            for line in d:
+                f.write(line)
+
+
+draft_to_publish = choose_draft()
+post_date = datetime.datetime.now().strftime('%Y-%m-%d')
+post_layout = 'post'
+post_author = 'Ted'
+ff_length = 3 if '.md' in draft_to_publish.name else 4  # accounts for .md and .txt
+post_title = 'Backup Post' + ' - ' + draft_to_publish.name[:-ff_length].replace('-', ' ')
+post_tag = 'backup'
+
+if __name__ == '__main__' and not posted_today():
+    format_draft()
+    publish_post()
+    print('Backup published')

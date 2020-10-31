@@ -6,7 +6,11 @@
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
+<<<<<<< HEAD
     <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+=======
+    <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
+>>>>>>> 57cea314b59e28a4e9a46805e7ee0dd0ab69b120
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

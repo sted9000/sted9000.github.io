@@ -2,3 +2,4 @@
 *.patch
 _site/
 __pycache__/
+.idea/
