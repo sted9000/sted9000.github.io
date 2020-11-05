@@ -13,7 +13,7 @@ States still outstanding (Biden's rough chances):
 - AZ (50)
 - NV (50)
 
-Biden's paths include winning PA or any combination of the other two. 
+Biden's paths include winning PA or any combination of two of the remaining three. 
 Because each race is 50/50, Biden wins half of the outcomes (two or three) half the time.
 So 0.75 + (1 - 0.75) * 0.5 = 87.5%
 
