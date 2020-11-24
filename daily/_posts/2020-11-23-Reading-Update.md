@@ -12,4 +12,4 @@ A freeroll update: [Reading six non-fiction books before the end of 2020](https:
 - A great book and a cup of tea after dinner is just wonderful.
 - The remaining books are short ones :)
 
-![books](/assets/images/non-fiction.jpeg)
+![books](/assets/images/non-fiction.jpg)
