@@ -1,12 +1,11 @@
 ---
-date: 2020-12-20
 title: MSFM Part 2
+date: 2020-12-20 00:00:00 Z
 layout: post
 author: Ted
 categories:
 - daily
 ---
-
 
 > It did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life — daily and hourly. Our answer must consist, not in talk and meditation, but in right action and in right conduct. Life ultimately means taking the responsibility to find the right answer to its problems and to fulfill the tasks which it constantly sets for each individual.
 
