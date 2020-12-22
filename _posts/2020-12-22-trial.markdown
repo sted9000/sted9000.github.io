@@ -1,7 +1,0 @@
----
-title: Trial
-date: 2020-12-22 03:57:00 Z
----
-
-# Ted is the best
-best is the ted

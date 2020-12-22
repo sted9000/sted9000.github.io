@@ -1,0 +1,17 @@
+---
+date: 2020-12-20
+title: MSFM Part 2
+layout: post
+author: Ted
+categories:
+- daily
+---
+
+
+> It did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life — daily and hourly. Our answer must consist, not in talk and meditation, but in right action and in right conduct. Life ultimately means taking the responsibility to find the right answer to its problems and to fulfill the tasks which it constantly sets for each individual.
+
+This is both profound and common-sensical. It is a no-bullshit, philosophical, and practical answer to the question of "what is the meaning of life". And it is also the implied answer given when the receiver of that question looks at you as if you had two heads.
+
+This is both an overarching answer and one that changes "daily and hourly". 
+
+It is great that a book with the ominous title *Man's Search for Meaning* and coming from a deep thoughtful concentration camp survivor is simple: when faced with a question, do the right thing.
