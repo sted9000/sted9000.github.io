@@ -1,6 +1,7 @@
 ---
+title: 'Tag: communication'
 layout: tagpage
-title: "Tag: communication"
 tag: communication
 robots: noindex
 ---
+

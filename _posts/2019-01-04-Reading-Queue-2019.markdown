@@ -1,0 +1,122 @@
+---
+title: Reading Queue - 2019
+date: 2019-01-04 00:00:00 Z
+categories:
+- daily
+tags:
+- list
+- reading
+- attention
+layout: post
+author: Ted
+---
+
+I am convinced that following the urge for the latest news, content, and even to some extent ideas is not the best we can do.
+My best guess is that the latest news was somehow very important to our tribal ancestors.
+But currently we really don't need news at all -
+we are not all traders needing the latest information to beat the market, nor does the news tell us anything new about the people interact with.
+And while you might argue that consuming the news gives you stuff to talk to with others, so does not consuming it.
+"I haven't read the news in a while. What is going on? I am truly interested."
+
+With out any further bullshit preamble here is my reading list for 2019:
+
+Reading Porn
+
+- [52 things I learned in 2018 - Kent Hendricks](https://kenthendricks.com/52-things-i-learned-in-2018/)
+
+- [52 things I learned in 2018 – Fluxx Studio Notes – Medium](https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2018-b07fc110d8e1)
+
+- [It’s probably time to learn Chinese – Eric Meltzer – Medium](https://medium.com/@wheatpond/its-probably-time-to-learn-chinese-63587376c2d2)
+
+- [Tyler Cowen's 12 rules for life - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2018/01/tyler-cowens-12-rules-life.html)
+
+- [Opinion: It’s Westworld. What’s Wrong With Cruelty to Robots? - The New York Times](https://www.nytimes.com/2018/04/23/opinion/westworld-conscious-robots-morality.html?utm_source=Sam+Harris+Newsletter&utm_campaign=7003ba28a2-EMAIL_CAMPAIGN_2018_04_23&utm_medium=email&utm_term=0_f1c2a2c9db-7003ba28a2-208036197&mc_cid=7003ba28a2&mc_eid=1d6a6e535c)
+
+- [Do the Rich Capture All the Gains from Economic Growth?](https://medium.com/@russroberts/do-the-rich-capture-all-the-gains-from-economic-growth-c96d93101f9c)
+
+- [One Giant Step for a Chess-Playing Machine - The New York Times](https://www.nytimes.com/2018/12/26/science/chess-artificial-intelligence.html)
+
+- [31 lessons from startups doing it better than you – Fluxx Studio Notes – Medium](https://medium.com/fluxx-studio-notes/31-lessons-from-startups-doing-it-better-than-you-a3c9cee4165c)
+
+- [P Krugman - How I Work](https://www.princeton.edu/~pkrugman/howiwork.html)
+
+- [Paul Graham - Essays](http://paulgraham.com/articles.html)
+
+Inspiration / Humanism
+
+- [The Best of Brain Pickings 2018 – Brain Pickings](https://www.brainpickings.org/2018/12/27/best-of-brain-pickings-2018/)
+
+- [The Best of Farnam Street 2018 - fs.blog](https://fs.blog/2018/12/best-of-farnam-street-2018/)
+
+- [The Best of Brain Pickings 2017 – Brain Pickings](https://www.brainpickings.org/2017/12/28/best-of-brain-pickings-2017/)
+
+- [The Best of Farnam Street 2017](https://fs.blog/2017/12/best-farnam-street-2017/)
+
+Series
+
+- [LessWrong 2.0](https://www.lesswrong.com/rationality)
+
+- [Effective Altruism - Career Guide](https://80000hours.org/career-guide/)
+
+Long Form (To be enjoyed over coffee)
+
+- [Essays - Gwern.net](https://www.gwern.net/)
+
+- [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
+
+- [Neuralink and the Brain’s Magical Future](https://waitbutwhy.com/2017/04/neuralink.html)
+
+- [The Marriage Decision: Everything Forever or Nothing Ever Again](https://waitbutwhy.com/2016/09/marriage-decision.html)
+
+- [The Fermi Paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html)
+
+- [Everything You Don’t Know About Tipping](https://waitbutwhy.com/2014/04/everything-dont-know-tipping.html)
+
+- [How to Beat Procrastination](https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html)
+
+- [20 Things I Learned While I Was in North Korea](https://waitbutwhy.com/2013/09/20-things-i-learned-while-i-was-in.html)
+
+- [Why Generation Y Yuppies Are Unhappy](https://waitbutwhy.com/2013/09/why-generation-y-yuppies-are-unhappy.html)
+
+- [Gluten Free Antarctica - idlewords.com](https://idlewords.com/2018/12/gluten_free_antarctica.htm)
+
+- [Navalism — Quotes & Perceptions by Naval Ravikant](https://medium.com/@noahmadden/navalism-quotes-perceptions-by-naval-ravikant-a5fd60ac5788)
+
+- [Money, blockchains, and social scalability](https://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html)
+
+Journalism / Culture / Politics/ Gossip
+
+- [Andrew Sullivan: America’s New Religions](https://nymag.com/intelligencer/2018/12/andrew-sullivan-americas-new-religions.html)
+
+- [Andrew Sullivan on the Opioid Epidemic in America](https://nymag.com/intelligencer/2018/02/americas-opioid-epidemic.html)
+
+- [Political tribalism in Trump’s America: what Andrew Sullivan gets wrong - Vox](https://www.vox.com/policy-and-politics/2018/12/11/18131370/andrew-sullivan-religion-tribalism-christianity-trump?utm_campaign=ezraklein&utm_content=chorus&utm_medium=social&utm_source=twitter)
+
+- [Sam Harris and the Myth of Perfectly Rational Thought: WIRED](https://www.wired.com/story/sam-harris-and-the-myth-of-perfectly-rational-thought/)
+
+- [Why Sam Harris—Not Ezra Klein—Is the One Making Space for People of Colour - Quillette](https://quillette.com/2018/05/28/sam-harris-not-ezra-klein-one-making-space-people-colour/)
+
+
+Crypto Stuff
+
+- [Vitalik Buterin's website](https://vitalik.ca/)
+
+- [The Subjectivity / Exploitability Tradeoff](https://blog.ethereum.org/2015/02/14/subjectivity-exploitability-tradeoff/)
+
+- [Proof of Stake: How I Learned to Love Weak Subjectivity](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/)
+
+- [Build a simple Ethereum + InterPlanetary File System (IPFS)+ React.js DApp.](https://itnext.io/build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp-23ff4914ce4e)
+
+- [Hayek in the Machine - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/01/hayek-in-the-machine.html)
+
+- [Ethereum Plans to Cut Its Absurd Energy Consumption by 99 Percent - IEEE Spectrum](https://spectrum.ieee.org/computing/networks/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent)
+
+- [Unsolved Problems in Blockchain Sharding – NEAR Protocol – Medium](https://medium.com/nearprotocol/unsolved-problems-in-blockchain-sharding-2327d6517f43)
+
+- [State of Stablecoins, 2018 – ConsenSys Media](https://media.consensys.net/the-state-of-stablecoins-2018-79ccb9988e63)
+
+- [Analysis of the DAO exploit](http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
+
+- [How does Ethereum work, anyway? – Preethi Kasireddy – Medium](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
+
+- [Fundamental questions around web3/blockchain value... - Evan Van Ness](https://www.evanvanness.com/post/180338466391/fundamental-questions-around-web3blockchain-value)

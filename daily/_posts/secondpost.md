@@ -1,6 +1,4 @@
 ---
-
-
 ---
 
 <p>This is my second post trial</p>

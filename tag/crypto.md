@@ -1,6 +1,7 @@
 ---
+title: 'Tag: crypto'
 layout: tagpage
-title: "Tag: crypto"
 tag: crypto
 robots: noindex
 ---
+

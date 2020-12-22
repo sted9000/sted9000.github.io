@@ -1,6 +1,7 @@
 ---
+title: 'Tag: family'
 layout: tagpage
-title: "Tag: family"
 tag: family
 robots: noindex
 ---
+

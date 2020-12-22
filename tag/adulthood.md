@@ -1,6 +1,7 @@
 ---
+title: 'Tag: adulthood'
 layout: tagpage
-title: "Tag: adulthood"
 tag: adulthood
 robots: noindex
 ---
+

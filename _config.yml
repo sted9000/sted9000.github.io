@@ -1,61 +1,46 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+---
 title: Ted Slocum
-email: sted9000@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Ted Slocum's personal website and blog, where he thinks online.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://sted9000.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username:
-github_username:  sted9000
-
-sass:
- sass_dir: _sass
- style: compressed
-
+timezone: UTC
 collections:
   authors:
+    title: Authors
     output: true
   blog_names:
+    title: Blog Names
     output: true
-
-future: false
-
-permalink: /:categories/:year/:month/:day/:title
-
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
-
-# Build settings
+- scope:
+    path: ''
+    type: authors
+  values:
+    layout: author
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ''
+  values:
+    layout: default
+email: sted9000@gmail.com
+description: Ted Slocum's personal website and blog, where he thinks online.
+baseurl: "/"
+url: https://sted9000.github.io
+github_username: sted9000
+sass:
+  sass_dir: _sass
+  style: compressed
+future: false
+permalink: "/:categories/:year/:month/:day/:title"
 markdown: kramdown
-# theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
