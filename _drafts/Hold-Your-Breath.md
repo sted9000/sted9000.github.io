@@ -1,6 +1,6 @@
 ---
 title: Hold Your Breath
-date: 2020-12-22 03:55:25.002000000 Z
+date: 2020-12-22 03:55:25 Z
 ---
 
 Rarely am I caught up in the news cycle. However, the reality show that is the upcoming presidential election has drawn me in. I feel as though I am holding my breath and will be for the next four weeks. Twitter, Google News, and the latest polls have been permanently etched into my browser's history.

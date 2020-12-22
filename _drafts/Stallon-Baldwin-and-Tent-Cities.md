@@ -1,6 +1,6 @@
 ---
 title: Stallon Baldwin And Tent Cities
-date: 2020-12-22 03:55:25.083000000 Z
+date: 2020-12-22 03:55:25 Z
 ---
 
 Yesterday's mini-adventure was running up the "Rocky Steps" at the Philadelphia Museum of Art. Surely sprinting up the steps and looking back over the city was the highlight of my morning. Wrong. One of the wonderful things I am coming to find out about living in Philly is that the unexpected should be what you expect.

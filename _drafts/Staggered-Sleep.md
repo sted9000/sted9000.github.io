@@ -1,6 +1,6 @@
 ---
 title: Staggered Sleep
-date: 2020-12-22 03:55:25.056000000 Z
+date: 2020-12-22 03:55:25 Z
 ---
 
 My girlfriend and I have been on different pages lately and too often not kind or pleasant to the other. It is not always roses.

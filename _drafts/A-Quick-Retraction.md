@@ -1,6 +1,6 @@
 ---
 title: A Quick Retraction
-date: 2020-12-22 03:55:24.876000000 Z
+date: 2020-12-22 03:55:24 Z
 ---
 
 A quick retraction or reversion of thought: I want to stay sane between now and election day. Upon reflection, sanity seems better than rollercoasters (or more accurately "The Egg Scrambler") at the moment. Therefore, I will limit my media intake. No twitter between now and then. Only data such as the polls, models, and betting lines during my morning routine.

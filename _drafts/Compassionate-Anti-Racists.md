@@ -1,6 +1,6 @@
 ---
 title: Compassionate Anti Racists
-date: 2020-12-22 03:55:24.945000000 Z
+date: 2020-12-22 03:55:24 Z
 ---
 
 A concept that I heard yesterday: When we see inequality, we have only two instinctual instruments to make sense of it. The first is personal blame and responsibility. The second is to place the blame on the system at large (thus leaving the individual as a victim).

@@ -1,6 +1,6 @@
 ---
 title: Neighborhood Characters Bobby
-date: 2020-12-22 03:55:25.029000000 Z
+date: 2020-12-22 03:55:25 Z
 ---
 
 Moving to a brand new city during the pandemic has limited the social connections that I was hoping to build upon arrival. The smallest things like knocking on a neighbors door to introduce yourself seem to be taboo - rightly or wrongly.

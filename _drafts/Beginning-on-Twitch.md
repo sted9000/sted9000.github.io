@@ -1,6 +1,6 @@
 ---
 title: Beginning On Twitch
-date: 2020-12-22 03:55:24.918000000 Z
+date: 2020-12-22 03:55:24 Z
 ---
 
 I am going to start streaming my poker play on Twitch here soon. This post will serve as a journal entry of my thoughts before commencing this experiment.  
