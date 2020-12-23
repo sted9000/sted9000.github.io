@@ -11,4 +11,4 @@ author: Ted
 
 My wonderful girlfriend is about the least capable person of sneakiness and also the least capable of holding in a secret. Therefore I have always known about the gifts she has gotten me before the special day. This year for x-mas, she outdid herself and I am so very thrilled to start massaging myself tomorrow with my [theragun pro](https://www.theragun.com/us/en-us/pro-us.html).
 
-"Humans, at there best, are givers of gifts."
+"Humans, at their best, are givers of gifts."
