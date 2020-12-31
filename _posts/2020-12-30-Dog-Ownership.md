@@ -1,10 +1,11 @@
 ---
 title: Time Capsule - Dog Ownership (first 500 days)
 date: 2020-12-30 00:00:00 Z
-layout:
-- post
 categories:
 - daily
+tags:
+- time capsule
+layout: post
 author: Ted
 ---
 
