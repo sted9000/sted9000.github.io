@@ -9,7 +9,7 @@ layout: post
 author: Ted
 ---
 
-Not to be outdone by the 46th President of the United States. I will be dolling out a _spate_ of freerolls.
+Not to be outdone by the 46th President of the United States. I will be doling out a _spate_ of freerolls.
 
 1. Sleep 8+ hours a night
 1. Read 11 books this year
