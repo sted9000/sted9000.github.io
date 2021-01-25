@@ -1,6 +1,6 @@
 ---
 title: Freeroll - Consume Less
-date: 2021-01-23 00:00:00 Z
+date: 2021-01-24 00:00:00 Z
 categories:
 - daily
 tags:
