@@ -1,6 +1,6 @@
 ---
 title: Professional - Virtual Coworking
-date: 2021-01-2 00:00:00 Z
+date: 2021-01-29 00:00:00 Z
 categories:
 - daily
 tags:
