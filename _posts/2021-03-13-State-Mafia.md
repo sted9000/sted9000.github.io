@@ -9,7 +9,7 @@ layout: post
 author: Ted
 ---
 
-The Blogging Mafia is alive and well: I have managed to post for over 400 consecutive days (winning thousands of dollars along the way), [JonnySpicer](https://joneyspicer.com) published a beautiful, upgraded, and hand-crafted Hugo site, and silencevosh has started his [adventures in tweeting](https://twitter.com/avminnesota) while his new blog is in the works.
+The Blogging Mafia is alive and well: I have managed to post for over 400 consecutive days (winning thousands of dollars along the way), [JonnySpicer](https://jonnyspicer.com) published a beautiful, upgraded, and hand-crafted Hugo site, and silencevosh has started his [adventures in tweeting](https://twitter.com/avminnesota) while his new blog is in the works.
 
 Predictions / Hopes for the rest of 2021:
 - My Dad joins the mafia and has a food v-blog by the end of the year. 
