@@ -9,7 +9,7 @@ layout: post
 author: Ted
 ---
 
-An interesting idea from (here)[https://www.youtube.com/watch?v=UOEpe17nPhE]
+An interesting idea from [here](https://www.youtube.com/watch?v=UOEpe17nPhE)
 
 Educatators take you along on a journey -- somewhere you would not have been able to go without them. But they never tell you when the adventagous part of the journey is over. They just keep on saying "follow me". The wise student knows when to eject because the teacher has no longer is knowledgable.
 
