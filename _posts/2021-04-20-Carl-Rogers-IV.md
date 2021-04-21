@@ -1,6 +1,6 @@
 ---
 title: Book - Carl Rogers Part IV
-date: 2021-04-29 00:00:00 Z
+date: 2021-04-20 00:00:00 Z
 categories:
 - daily
 tags:
